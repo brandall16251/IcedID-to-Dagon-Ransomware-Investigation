@@ -16,7 +16,7 @@ My analytical process separates
 - Role of Evidence
 - Validation (required, optional, or N/A) 
   
-As such, each individual finding acts as a sample my continually improving process, not polished landmarks showcasing the perfect investigator. 
+As such, each individual finding acts as a sample of my continually improving process, not polished landmarks showcasing the perfect investigator. 
 
 My documentation process separates
 
