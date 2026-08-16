@@ -40,10 +40,7 @@ For additional investigative steps, see the [Appendix](Appendix-Investigative-Pi
 - **Observed Activity** is restricted to the supplied evidence. 
 - **Assessment** states my interpretation and confidence. 
 - **Hypothesis** records the explanation I was using to guide the investigation.
-- OSINT was used to better inform hypotheses, not replace evidence.
-- Process-creation events establish execution, not necessarily successful completion.
 - Eleven investigative steps were moved to the [appendix](Appendix-Investigative-Pivots.md) due to their addition of reading friction
-- The timestamps are normalized due to an incongruency in Splunk timestamps
 
 ### Assessment Confidence
 
