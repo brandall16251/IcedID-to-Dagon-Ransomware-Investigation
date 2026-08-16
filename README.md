@@ -19,7 +19,7 @@ The result is a project entailing a higher level [Incident Report](Incident-Repo
 
 Hiring managers are recommended to start with the [Incident Report](Incident-Report.md), then sample the process document if desired.
 
-Learners may get more value by reading the[Investigation Steps, Methods, and Lessons Learned](Investigation-Steps-Methods-and-Lessons-Learned.md) and/or [appendix](Appendix-Investigative-Pivots.md).
+Learners may get more value by reading the [Investigation Steps, Methods, and Lessons Learned](Investigation-Steps-Methods-and-Lessons-Learned.md) and/or [appendix](Appendix-Investigative-Pivots.md).
 
 ## Project Purpose
 
