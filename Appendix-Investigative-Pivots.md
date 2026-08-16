@@ -4,9 +4,9 @@
 
 To my knowledge, no investigation has been perfectly executed. Similarly, the execution of my investigation was not 100% "good" choices. There were a few points where I misread a word in the CTF, wrongly assumed attribution, or remembered a part of my prior training or OSINT research which led me astray from a "100% 'good' choices" investigation. 
 
-While these choices are not my preferred presentation, they each represent learnable moments and showcase where best-practices in my process prevail even amidst dead-end findings. 
+This document represents learnable moments and showcases where best-practices in my process prevail even amidst dead-end findings. 
 
-Each step presented includes the same methodical approach and structure as the [primary process document](Investigation-Steps-Methods-and-Lessons-Learned.md). Refer to this document for intended readability, process, and documentation templates. 
+Each step presented includes the same methodical approach and structure as the [primary process document](Investigation-Steps-Methods-and-Lessons-Learned.md).
 
 Note: Given this document's purpose as a learning material, context timelines are shown as completed (as opposed to the main investigation's use of "???" for posited fields).
 
