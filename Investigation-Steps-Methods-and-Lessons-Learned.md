@@ -2,7 +2,9 @@
 
 ## Purpose
 
-This document details the investigation as I performed it. While the original investigation was a CTF titled "SOC Analyst CTF — "Scanned Document 468", I approached the log set as a true investigation led by evidence, only referencing the CTF questions as checkpoints occasionally. This allowed a fuller learning experience including wrong turns, backward pivots, and moments where I had to step back to research a field, tool, or context before moving forward. 
+This document details the investigation as I performed it. 
+
+While the original investigation was a CTF titled "SOC Analyst CTF — 'Scanned Document 468'", I approached the log set as a true investigation led by evidence, only referencing the CTF questions as checkpoints occasionally. This allowed a fuller learning experience including wrong turns, backward pivots, and moments where I had to step back to research a field, tool, or context before moving forward. 
 
 ## Process
 
