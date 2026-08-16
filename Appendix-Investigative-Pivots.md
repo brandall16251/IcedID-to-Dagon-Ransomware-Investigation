@@ -588,18 +588,18 @@ But this investigation was primarily for education. As such, I was able to pract
 
 I learned valuable lessons in 
 
-- mental frameworks ,
+- mental frameworks,
 - command line analysis,
 - and where my assumptions aid or harm my process. 
 
 Additionally, the process of reviewing these less-fruitful endeavors has allowed me a chance to work on
 
 - documentation,
-- verbiage and presentation,
+- verbiage/presentation,
 - evidence-based claims,
 - and reflections on optimizing my process as an investigator. 
 
 It is my hope that this Appendix serves to provide transparency in my process, both as a learner and practitioner. 
 
 For the primary investigative steps, see [Investigation Steps, Methods, and Lessons Learned.](Investigation-Steps-Methods-and-Lessons-Learned.md).
-For the cleaner report, see [Incident Report](Incident-Report.md).
+For a more straightforward report, see [Incident Report](Incident-Report.md).
