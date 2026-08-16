@@ -36,7 +36,7 @@ For additional investigative steps, see the [Appendix](Appendix-Investigative-Pi
 
 ## Scope, Assumptions, and Reading Considerations
 
-- The CTF supplied a limited dataset where missing telemetry is treated as a limitation, not evidence that an event did not occur.
+- The logset presented is incomplete, including ~500 logs during a time that would warrant exponentially more.
 - **Observed Activity** is restricted to the supplied evidence. 
 - **Assessment** states my interpretation and confidence. 
 - **Hypothesis** records the explanation I was using to guide the investigation.
