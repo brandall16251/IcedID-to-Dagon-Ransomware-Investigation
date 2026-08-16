@@ -576,6 +576,8 @@ My contemporaneous narrative records that additional accounts appeared in the gl
 
 ## Appendix Summary
 
+The overarching lesson learned in the appendix is this: 
+
 Best-practices differ depending on context. 
 
 During an incident investigation, many of the pivots and dead-ends within this Appendix would cost valuable time and lower the quality of the investigation. 
