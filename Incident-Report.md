@@ -27,11 +27,15 @@ Post-compromise activity included persistence via AnyDesk remote-management exec
 
 ### Attribution:
 
-The evidence supports an IcedID-to-Dagon ransomware attack suspected of using CobaltStrike as a 1st stage payload for Domain Controller compromise. The likely objective was double extortion: data theft followed by encryption and recovery inhibition. Given Dagon's prevalence as "Ransomware-as-a-Service", no particular identity has been attributed. The primary source of this conclusion is a cross-reference of the attack chain with the DFIR, ["From IcedID to Dagon locker ransomware in 29 days](https://thedfirreport.com/2024/04/29/from-icedid-to-dagon-locker-ransomware-in-29-days/) and an [Mphasis technical summary](https://www.mphasis.com/content/dam/mphasis-com/global/en/home/services/cybersecurity/icedid-infection-to-dagon-locker-ransomware-apr29-22-7.pdf) of similar events.
+The evidence supports an IcedID-to-Dagon ransomware attack suspected of using CobaltStrike as a 1st stage payload for Domain Controller compromise. 
+
+The likely objective was double extortion: data theft followed by encryption and recovery inhibition. Given Dagon's prevalence as "Ransomware-as-a-Service", no particular identity has been attributed. The primary source of this conclusion is a cross-reference of the attack chain with the DFIR, ["From IcedID to Dagon locker ransomware in 29 days](https://thedfirreport.com/2024/04/29/from-icedid-to-dagon-locker-ransomware-in-29-days/) and an [Mphasis technical summary](https://www.mphasis.com/content/dam/mphasis-com/global/en/home/services/cybersecurity/icedid-infection-to-dagon-locker-ransomware-apr29-22-7.pdf) of similar events.
 
 ### Recommended Action:
 
-The dataset supports urgent containment and recovery actions. It does not provide cloud-side transfer records, command exit status, complete host coverage, or a full malware-analysis record. Additionally, the dataset shows a very low number of logs for the timeframe and attacker behaviors, which forced the investigation to rely on hypotheses to move forward; those limitations are kept separate from the operational assessment, which is based in proof, not conjecture. Additional investigation into backup logging sources and/or endpoints/networks affected would aid scoping of containment and recovery actions. 
+The dataset supports urgent containment and recovery actions. 
+
+Current resources do not provide cloud-side transfer records, command exit status, complete host coverage, or a full malware-analysis record. Additionally, the dataset shows a very low number of logs for the timeframe and attacker behaviors, which forced the investigation to rely on hypotheses to move forward; those limitations are kept separate from the operational assessment, which is based in proof, not conjecture. Additional investigation into backup logging sources and/or endpoints/networks affected would aid scoping of containment and recovery actions. 
 
 ## 2. Scope, Assumptions, and Limitations
 
