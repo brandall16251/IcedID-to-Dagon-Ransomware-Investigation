@@ -327,7 +327,7 @@ Note: the available resources fail to disclose atomic-level malware attributes, 
 - Restrict outbound access to unsanctioned file-sharing and cloud-storage services.
 - Re-organize authentication requirements for Domain Controllers and File Systems
 
-## 7. Lessons Learned
+## 7. Investigative Lessons Learned
 
 - Cross-source correlation was essential: no single log described the entire intrusion.
 - Process ancestry, command lines, account/host identity, and time were generally more useful than severity labels alone.
